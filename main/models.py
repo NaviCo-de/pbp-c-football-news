@@ -1,4 +1,5 @@
 # Create your models here.
+#Biar bisa commit lgi
 import uuid
 from django.db import models
 
